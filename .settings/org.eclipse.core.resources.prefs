@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/dev/mvc/answer/AnsCont.java=UTF-8
+encoding//src/main/java/dev/mvc/notice/NoticeCont.java=UTF-8
+encoding//src/main/java/dev/mvc/notice/NoticeDAOInter.java=UTF-8
+encoding//src/main/java/dev/mvc/notice/NoticeProcInter.java=UTF-8
+encoding//src/main/java/dev/mvc/notice/NoticeVO.java=UTF-8
+encoding//src/main/java/dev/mvc/questions/QuesCont.java=UTF-8
+encoding//src/main/java/dev/mvc/questions/QuesDAOInter.java=UTF-8
+encoding//src/main/java/dev/mvc/questions/QuesProc.java=UTF-8
+encoding//src/main/java/dev/mvc/questions/QuesProcInter.java=UTF-8
+encoding//src/main/webapp/WEB-INF/doc/\uACF5\uC9C0\uC0AC\uD56D/notice.sql=MS949
+encoding//src/main/webapp/WEB-INF/doc/\uB2F5\uBCC0/answer.sql=MS949
+encoding//src/main/webapp/WEB-INF/doc/\uC9C8\uBB38/questions.sql=MS949
+encoding//src/main/webapp/WEB-INF/doc/\uD569\uACA9\uC790\uC18C\uC11C/pass_self.sql=MS949
